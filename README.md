@@ -1,1 +1,1 @@
-# password Generator using HTML, CSS & Javascript
+# Password Generator using HTML, CSS & Javascript
